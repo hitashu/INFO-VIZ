@@ -1,5 +1,5 @@
 # INFO-VIZ Capstone Project 
-# [Walmart Sales Forecasting]
+# Walmart Sales Forecasting
 ## Team Members - Gourang Patel, Sanjan Vijayakumar, Hitashu Kanjani, Sagar Singh
 
 
