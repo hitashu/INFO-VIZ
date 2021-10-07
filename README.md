@@ -1,2 +1,2 @@
-<center># INFO-VIZ</center>
-<center># Capstone Project [Walmart Sales Forecasting]</center>
+# INFO-VIZ
+# Capstone Project [Walmart Sales Forecasting]
